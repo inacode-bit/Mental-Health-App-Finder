@@ -64,7 +64,7 @@ export default function ChatInterface() {
   return (
     <div className="flex flex-col h-screen max-w-4xl mx-auto p-4">
       {/* Header */}
-      <div className="bg-blue-600 text-black p-6 rounded-t-lg">
+      <div className="bg-blue-600 text-white p-6 rounded-t-lg">
         <h1 className="text-2xl font-bold">Mental Health App Finder</h1>
         <p className="text-blue-100 mt-1">Discover apps that can support your mental wellness</p>
       </div>
